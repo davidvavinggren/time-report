@@ -1,2 +1,2 @@
 # time_report
-A script for documenting working hours.
+A repo for documenting working hours.
